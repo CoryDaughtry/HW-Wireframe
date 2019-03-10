@@ -1,0 +1,85 @@
+* {font-family:Arial, Helvetica, sans-serif}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+.content {
+    max-width: 750px;
+    margin: auto;
+}
+
+header {
+    background: #ebebeb;
+    text-align: center;
+    margin: 8px;
+    width: 100%;
+    height:85px;
+
+
+}
+nav {
+    background: #ebebeb;
+    text-align: center;
+    margin: 8px;
+    width: 100%;
+    height: 85px;
+}
+
+section {
+    background: #ebebeb;
+    text-align: center;
+    float: left;
+    margin: 9px;
+    width: 50%;
+    height:275px;
+}
+
+article {
+    background: #777;
+    text-align: center;
+    width: 80%;
+    height: 170px;
+    z-index: 1;
+    color: #ebebeb;
+    margin: 50px;
+
+
+}
+
+h1 {
+    color: #777;
+    background: #ebebeb;
+    margin: 7px;
+    height: 50px ;
+
+}
+
+p {
+    color: #777;
+    background: #ebebeb;
+    margin: 7px;
+    height:50px;
+}
+
+
+aside {
+    background: #ebebeb;
+    text-align: center;
+    float:right;
+    margin:9px;
+    width: 45%;
+    height: 275px;
+    
+}
+footer { 
+    background: #ebebeb;
+    text-align: center;
+    width: 100%;
+    height: 85px;
+    margin-top: 320px;
+    
+}
